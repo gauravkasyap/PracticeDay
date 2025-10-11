@@ -1,4 +1,4 @@
-his repository contains various Java programs covering fundamental concepts such as Strings, Arrays, Iteration, Conditional Statements, and Functions.
+This repository contains various Java programs covering fundamental concepts such as Strings, Arrays, Iteration, Conditional Statements, and Functions.
 It’s designed to help beginners and learners strengthen their understanding of core Java programming through simple and well-structured examples.
 
 💡 Topics Covered

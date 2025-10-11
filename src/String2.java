@@ -1,5 +1,5 @@
 public class String2 {
-    public static String removeDuplicateSandSpaces(String str){
+    public static String removeDuplicatesAndSpaces(String str){
         //Implement your code here and change the return value accordingly
         StringBuilder newString = new StringBuilder();
         for (int i=0; i<str.length(); i++){
@@ -18,6 +18,6 @@ public class String2 {
 
     public static void main(String args[]){
         String str = "object oriented programming";
-        System.out.println(removeDuplicateSandSpaces(str));
+        System.out.println(removeDuplicatesAndSpaces(str));
     }
 }
