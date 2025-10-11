@@ -6,13 +6,11 @@ public class SelectionControlStructure2 {
         System.out.print("Enter Day: ");
         int Day = sc.nextInt() ;
 
-        Scanner pc = new Scanner(System.in);
         System.out.print("Enter Month: ");
-        int Month = pc.nextInt();
+        int Month = sc.nextInt();
 
-        Scanner dc = new Scanner(System.in);
         System.out.print("Enter Year: ");
-        int year = pc.nextInt();
+        int year = sc.nextInt();
 
         if(Day<=31 && Month <=12){
             System.out.println("Date: "+Day+"-"+Month+"-"+"20"+year);
